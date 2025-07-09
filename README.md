@@ -1,44 +1,104 @@
-# FUTURE_ML_01
+#README.txt
 
-🚀 AI-Powered Sales Forecasting Dashboard
-📊 Machine Learning Task 1 – Future Interns
-👨‍💻 By: Karan Jogi
+# 🧠 AI-Powered Sales Forecasting Dashboard
 
-I'm thrilled to share my latest project completed as part of the Data Science & Analytics Internship at Future Interns — an interactive, AI-driven sales forecasting dashboard designed to empower retail decision-making with predictive insights.
+> 🚀 A real-world retail analytics project built as part of the **Machine Learning Task 1** with [Future Interns].
 
-🔍 Project Overview:
-Using historical Superstore sales data, I built a dynamic sales analytics dashboard in Power BI integrated with Python-based forecasting models (Prophet & Power BI's built-in) to predict sales trends for the next 30 days.
+📌 **By: Karan Jogi**  
+📅 **Duration:** July 2025  
+📁 **Tools:** Power BI, Python (Prophet), Jupyter Notebook, Excel
 
-📌 What I Built:
+---
 
-Cleaned and transformed sales data for accuracy and usability
+## 📊 Project Overview
 
-Engineered features like seasonal spikes & category-wise filters
+This project focuses on **predictive sales analytics** using historical retail data from the popular **Superstore Dataset**. The goal is to help retail decision-makers uncover trends, understand customer behavior, and forecast future sales with actionable precision.
 
-Trained forecasting models using Facebook Prophet and Power BI’s native AI tools
+The final solution includes an interactive **Power BI dashboard** integrated with **Python's Facebook Prophet model** for robust time series forecasting.
 
-Created an interactive dashboard that allows business users to:
-✅ Compare historical vs. forecasted sales
-✅ Filter by region, category, segment, or state
-✅ Track top-selling items and low-performing periods
-✅ View real-time KPIs including sales, profit, discount, and quantity
+---
 
-📈 Key Insights Delivered:
+## 🎯 Goals & Deliverables
 
-📌 California led in sales volume, while Standard Class dominated shipping preference
+- ✅ Clean and preprocess historical retail data  
+- ✅ Engineer seasonal and categorical features  
+- ✅ Train time series forecasting models using Prophet  
+- ✅ Build an interactive dashboard in Power BI with:
+  - Actual vs. forecasted sales
+  - Filters for region, category, segment
+  - KPI cards (Sales, Profit, Quantity, Discount)
+  - Monthly and yearly sales breakdowns
+  - State-wise insights and sub-category performance
+- ✅ Provide clear business insights and recommendations
 
-💡 Phones & Chairs were top sub-categories in revenue
+---
 
-📉 Sales dip predicted in early January with gradual recovery by month-end
+## 📈 Forecasting Models
 
-🔍 Dual forecasting models (Prophet & Power BI) helped validate trend consistency
+### 🔍 1. **Power BI Forecasting**
+- Built-in model for visual trend analysis
+- Forecast with 95% confidence intervals
 
-🛠️ Tools Used:
+### 🔍 2. **Prophet (Python)**
+- Trained using daily-level Superstore data
+- Accounts for trend, seasonality, and holidays
+- More robust for long-range predictions
 
-Power BI (for visualization & forecasting)
+---
 
-Python (Facebook Prophet for ML forecasting)
+## 🛠️ Tools & Technologies Used
 
-Excel & Jupyter Notebook (for EDA & preprocessing)
+| Tool               | Use Case                              |
+|--------------------|----------------------------------------|
+| **Power BI**       | Dashboard building and quick forecasting |
+| **Python (Prophet)** | Advanced time series prediction       |
+| **Jupyter Notebook**| EDA and forecasting workflow          |
+| **Excel**          | Optional data preprocessing            |
 
-👨‍💼 This project honed my skills in data storytelling, business intelligence, forecasting, and sales analytics — aligning directly with real-world needs in retail consulting, SaaS, and data-driven decision-making.
+---
+
+## 📌 Key Insights from Dashboard
+
+- 🏆 **Consumer Segment** dominates with 51% of total sales
+- 🪑 **Phones** and **Chairs** are top-performing sub-categories
+- 🚚 Most deliveries are via **Standard Class** (59%)
+- 🗺️ **California** generates the highest quantity of sales
+- 📉 January and February show dips — a strong indicator for pre-season campaigns
+
+---
+
+## 📷 Dashboard Visuals
+
+### 📍 Superstore Sales Overview  
+![Superstore Dashboard](./assets/Screenshot_2025-07-09_100427.png)
+
+### 🔮 30-Day Sales Forecast (Power BI vs Prophet)  
+![Forecast Dashboard](./assets/Screenshot_2025-07-09_100459.png)
+
+---
+
+## 🧠 Business Impact
+
+This forecasting solution empowers retail decision-makers to:
+- Optimize inventory based on predicted demand  
+- Identify regional and segment-specific trends  
+- Plan marketing and discount strategies around seasonal dips  
+- Monitor and act on category-wise performance
+
+---
+
+## 🙌 Acknowledgements
+
+Grateful to **Future Interns** for this enriching opportunity to apply machine learning and analytics in a real-world business context.
+
+---
+
+## 📬 Contact
+
+**Karan Jogi**  
+📧 karanjogi2021@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/karan-jogi-4592b0285/)
+
+---
+
+## ⭐ Like this project? Give it a ⭐ on GitHub!
