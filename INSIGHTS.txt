@@ -1,0 +1,39 @@
+#INSIGHTS
+1. Sales Overview
+Total Sales: $2.3M
+
+Profit: $286.4K
+
+Quantity Sold: 37.87K
+
+Total Discount Given: 1.56K units
+
+2. Top Performing Categories
+Technology leads with $0.84M in sales.
+
+Furniture and Office Supplies follow closely, each above $0.7M.
+
+3. Sales by Segment
+Consumer Segment dominates at 51% of total sales.
+
+Corporate follows with 31%, then Home Office at 19%.
+
+4. Preferred Shipping Mode
+Standard Class is the most used shipping method (59% of sales).
+
+Other methods like Second Class (20%) and First Class (15%) are less preferred.
+
+5. Regional & State Trends
+California leads in quantity sold, followed by New York and Texas.
+
+Sales and profits are notably higher in Q4, especially during November and December.
+
+6. Sub-Category Highlights
+Phones and Chairs both contribute $0.33M.
+
+Storage is also a significant sub-category with $0.22M in sales.
+
+7. Forecasting Insights
+Sales are expected to remain stable over the next 30 days.
+
+Facebook Prophet and Power BI AI Forecasting both show similar trends with slight expected increases by the end of the month (~2.3K units/day).
