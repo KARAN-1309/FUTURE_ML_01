@@ -1,5 +1,3 @@
-#README.txt
-
 # 🧠 AI-Powered Sales Forecasting Dashboard
 
 > 🚀 A real-world retail analytics project built as part of the **Machine Learning Task 1** with [Future Interns].
