@@ -65,16 +65,6 @@ The final solution includes an interactive **Power BI dashboard** integrated wit
 
 ---
 
-## 📷 Dashboard Visuals
-
-### 📍 Superstore Sales Overview  
-![Superstore Dashboard](./assets/Screenshot_2025-07-09_100427.png)
-
-### 🔮 30-Day Sales Forecast (Power BI vs Prophet)  
-![Forecast Dashboard](./assets/Screenshot_2025-07-09_100459.png)
-
----
-
 ## 🧠 Business Impact
 
 This forecasting solution empowers retail decision-makers to:
