@@ -1,2 +1,3 @@
 # FUTURE_ML_01
-he 'Super Store Sales Dashboard,' built using Power BI with integrated AI forecasting capabilities. This dashboard provides a comprehensive view of sales performance across multiple dimensions including category, segment, ship mode, state, and time. 
+
+This project presents a dynamic sales dashboard built using **Power BI**, designed to analyze sales, profit, discount, and quantity across various dimensions like category, segment, and region. It also integrates a **30-day sales forecast** using **Facebook Prophet**, developed in **Visual Studio** with Python, allowing for a comparative view alongside Power BI's built-in forecasting tool.
